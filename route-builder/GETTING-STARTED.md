@@ -1,6 +1,6 @@
 # Route Builder - Getting Started
 
-In this tutorial, you convert [Map Editor Mod](https://de.gta5-mods.com/scripts/map-editor) file (xml format) into a [GT Bike V Mod](https://de.gta5-mods.com/scripts/gt-bike-v) course file (json format)
+In this tutorial, you convert [Map Editor Mod](https://de.gta5-mods.com/scripts/map-editor) file (xml format) into a [GT Bike V Mod](https://de.gta5-mods.com/scripts/gt-bike-v) course file (json format).
 
 ## Step 1: Change Default Directories
 
