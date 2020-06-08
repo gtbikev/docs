@@ -26,5 +26,5 @@ Perform the following steps to install and run **Route Builder**:
 
 Once you have installed and set up **Route Builder**, these topics will help you learn more about **Route Builder**:
 
-* [Getting started](https://github.com/gtbikev/docs/route-builder/getting-started.md) - a quick guide how to use **Route Builder**
-* [Shortcuts](https://github.com/gtbikev/docs/route-builder/shortcuts.md) - a reference of available shortcuts in **Route Builder**
+* [Getting started](https://github.com/gtbikev/docs/blob/master/route-builder/GETTING-STARTED.md) - a quick guide how to use **Route Builder**
+* [Shortcuts](https://github.com/gtbikev/docs/blob/master/route-builder/SHORTCUTS.md) - a reference of available shortcuts in **Route Builder**
