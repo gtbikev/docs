@@ -41,4 +41,4 @@ The course file name has been automatically specified in the **Generate file nam
 > Tip: you can specify another course file location by clicking **Specify file name** and select the file loction with **Save Course File** button.
 
 ## Related Links
-* [Route Builder - Shortcuts](https://github.com/gtbikev/docs/blob/master/route-builder/SHORTCUTS.md)
+* [Shortcuts](https://github.com/gtbikev/docs/blob/master/route-builder/SHORTCUTS.md) - a reference of available shortcuts in **Route Builder**
