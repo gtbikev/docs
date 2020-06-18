@@ -8,6 +8,8 @@ Start **Route Builder** and select **Settings** tab.
 
 ![Settings](https://github.com/gtbikev/docs/blob/master/route-builder/images/settings.png)
 
+Select setting `Defaults`.
+
 Specify default directory for **Map Editor** by clicking the **Set Map Editor Directory** button. Select directory and click button **OK**.
 
 ![Settings-DefaultDirectory-MapEditor](https://github.com/gtbikev/docs/blob/master/route-builder/images/settings-default-directory-mapeditor.png)
@@ -26,7 +28,7 @@ Select **Convert Route** tab.
 
 ![ConvertRoute](https://github.com/gtbikev/docs/blob/master/route-builder/images/convertroute.png)
 
-Specify **Map Editor** file by clicking the **Open Map Editor File** button. Select **Map Editor** file and click button **OK**.
+Specify **Map Editor** file by clicking the **Set Map Editor File** button (or shortcut `Ctrl+O`). Select **Map Editor** file and click button **Open**.
 
 ![ConvertRoute-OpenMapEditorFile](https://github.com/gtbikev/docs/blob/master/route-builder/images/convertroute-open-mapeditor-file.png)
 
@@ -34,11 +36,12 @@ Specify **Map Editor** file by clicking the **Open Map Editor File** button. Sel
 
 ## Step 3: Convert Route
 
-The course file name has been automatically specified in the **Generate file name** field. Verify that the course file location is correct. Once done, click **Start** button to create the course file.
+The course file name has been automatically specified in the course **file name** field. Verify that the course file location is correct. Once done, click **Start** button (or shortcut `F5`) to create the course file.
 
 ![ConvertRoute-Start](https://github.com/gtbikev/docs/blob/master/route-builder/images/convertroute-start.png)
 
-> Tip: you can specify another course file location by clicking **Specify file name** and select the file loction with **Save Course File** button.
+> Tip: you can specify another course file location by selecting the file loction with **Set Course File** button (or shortcut `Ctrl+S`).
 
 ## Related Links
 * [Shortcuts](https://github.com/gtbikev/docs/blob/master/route-builder/SHORTCUTS.md) - a reference of available shortcuts in **Route Builder**
+* [Settings](https://github.com/gtbikev/docs/blob/master/route-builder/SETTINGS.md) - a reference of available settings in **Route Builder**

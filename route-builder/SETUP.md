@@ -28,3 +28,4 @@ Once you have installed and set up **Route Builder**, these topics will help you
 
 * [Getting started](https://github.com/gtbikev/docs/blob/master/route-builder/GETTING-STARTED.md) - a quick guide how to use **Route Builder**
 * [Shortcuts](https://github.com/gtbikev/docs/blob/master/route-builder/SHORTCUTS.md) - a reference of available shortcuts in **Route Builder**
+* [Settings](https://github.com/gtbikev/docs/blob/master/route-builder/SETTINGS.md) - a reference of available settings in **Route Builder**
