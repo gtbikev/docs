@@ -7,6 +7,7 @@
 | F1       | About         | Open url of github code page           |
 | F2       | Send Feedback | Open url of github issue page          |
 | F5       | Start         | Convert map editor file to course file |
+| F11      | Debug         | Enable/disable debug window            |
 
 ## Key
 
