@@ -31,7 +31,7 @@ Perform the following steps to create the map with profile:
 2. Copy course map to the new image created in step 1
 3. Copy course profile to the new image created in step1
 
-> You find a map example in the course repository: https://github.com/gtbikev/courses/preview/template/map-template.png
+> You find a map example in the course repository: https://github.com/gtbikev/courses/blob/master/preview/template/map-template.png
 
 
 ## PART II: Create Course Animation
