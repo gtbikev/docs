@@ -4,9 +4,10 @@ This repository contains documentation for projects hosted on [github.com/gtbike
 
 ## Documentation
 
-| Repository            | Documentation                                                                                |
-| :-------------------- | :------------------------------------------------------------------------------------------- |
-| gtbikev/route-builder | [gtbikev/route-builder](https://github.com/gtbikev/docs/blob/master/route-builder/INDEX.md) |
+| Repository              | Documentation                                                                                 |
+| :---------------------- | :-------------------------------------------------------------------------------------------- |
+| gtbikev/courses/preview | [gtbikev/course-preview](https://github.com/gtbikev/docs/blob/master/course-preview/INDEX.md) |
+| gtbikev/route-builder   | [gtbikev/route-builder](https://github.com/gtbikev/docs/blob/master/route-builder/INDEX.md)   |
 
 ## Contributing
 You can participate in the project by reviewing the documentation and make pull requests for anything from typos to new content.
