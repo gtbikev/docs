@@ -1,8 +1,13 @@
 # Grand Theft Bike V - Docs
 
-This repository contains documentation for projects hosted on [github.com/gtbikev](https://github.com/gtbikev).
+This repository contains documentation for [GT Bike V Mod](https://de.gta5-mods.com/scripts/gt-bike-v) and projects hosted on [github.com/gtbikev](https://github.com/gtbikev).
 
 ## Documentation
+
+| Mod                                                    | Documentation                                                           |
+| :----------------------------------------------------- | :---------------------------------------------------------------------- |
+| [gtbikev](https://www.gta5-mods.com/scripts/gt-bike-v) | [gtbikev/mod](https://github.com/gtbikev/docs/blob/master/mod/INDEX.md) |
+
 
 | Repository              | Documentation                                                                                 |
 | :---------------------- | :-------------------------------------------------------------------------------------------- |
