@@ -1,6 +1,6 @@
 # GTBikeV 0.3.0.2 - Documentation <!-- omit in toc -->
 
-The latest version of this document is available on github: https://github.com/gtbikev/docs/blob/master/mod/INDEX.md
+The latest version of this document is available on github: [https://github.com/gtbikev/docs/blob/master/mod/INDEX.md](https://github.com/gtbikev/docs/blob/master/mod/INDEX.md)
 
 **About**
 
@@ -94,14 +94,14 @@ Perform the following steps to install mod:
 5. Unzip `ScriptHookVDotnet` file; copy all ScriptHookVDotNet.* files to GTA V installation directory
 6. Unzip `GTBikeV` file: copy folder `Scripts` to GTA V installation directory; copy folder `ModSettings` to user data directory located at `My Documents\Rockstar Games\GTA V`
 
-   > Important note: folder `Rockstar Games\GTA V` will be created after you have launched GTA V.
+> Important note: folder `Rockstar Games\GTA V` will be created after you have launched GTA V.
 
 #### 1.3.3 Additional Resources
 
-* GTBikeV Mod page: https://www.gta5-mods.com/scripts/gt-bike-v (Makinolo)
-* Prologue Walkthrough: https://www.ign.com/wikis/gta-5/Prologue (IGN)
-* Tutorial: https://www.youtube.com/watch?v=dbMh9LEGMBg (Chris Pritchard Cycling News)
-* Setup, How-To Guide: https://www.youtube.com/watch?v=Bl17P_mpHI0 (GPLama)
+* GTBikeV Mod page: [https://www.gta5-mods.com/scripts/gt-bike-v](https://www.gta5-mods.com/scripts/gt-bike-v) (Makinolo)
+* Prologue Walkthrough: [https://www.ign.com/wikis/gta-5/Prologue](https://www.ign.com/wikis/gta-5/Prologue) (IGN)
+* Tutorial: [https://www.youtube.com/watch?v=dbMh9LEGMBg](https://www.youtube.com/watch?v=dbMh9LEGMBg) (Chris Pritchard Cycling News)
+* Setup, How-To Guide: [https://www.youtube.com/watch?v=Bl17P_mpHI0](https://www.youtube.com/watch?v=Bl17P_mpHI0) (GPLama)
 
 
 ## 2. Upgrade
