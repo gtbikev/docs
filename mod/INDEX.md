@@ -20,7 +20,6 @@ GTBikeV mod is only supported in GTA V `Story Mode`. If you play the mod in GTA 
 
 This mod requires actual `PHYSICAL EXCERSISE` to be meaningful.
 
----
 
 **Table of Contents**
 
@@ -53,7 +52,7 @@ This mod requires actual `PHYSICAL EXCERSISE` to be meaningful.
 
 ### 1.1 Hardware requirements
 
-* Windows PC. System Requirements: https://support.rockstargames.com/articles/203428177/Grand-Theft-Auto-V-PC-System-Requirements
+* Windows PC. System Requirements: [GTA V PC System Requirements](https://support.rockstargames.com/articles/203428177/Grand-Theft-Auto-V-PC-System-Requirements)
 * ANT+ dongle for your PC to communicate with the trainer
 * Smart trainer ANT+ FE-C compatible or ANT+ Cycling Power Meter
 * A bicycle compatible with your smart trainer
