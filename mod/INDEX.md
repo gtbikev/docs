@@ -141,68 +141,19 @@ This will save the ride data to a fit file to user data directory located at `My
 
 The following options can be set in the `GTBikeVConfig.ini` in the user data directory located at `My Documents\Rockstar Games\GTA V\ModSettings`:
 
-<table>
-<tr>
-<td><b>Key</b></td>
-<td><b>Value</b></td>
-<td><b>Description</b></td>
-</tr>
-<tr>
-<td>SelectedBike</td>
-<td>SCORCHER, TRIBIKE, TRIBIKE2, TRIBIKE3, FIXTER, CRUISER, BMX</td>
-<td>Bike used by the avatar during the ride. The game does not feature any other bike models.</td>
-</tr>
-<tr>
-<td>SlopeScale</td>
-<td> 0.0-2.0</td>
-<td>Scales the inclines in the game, ranges from 0.0 to 2.0. The first one will remove any slope change and the latter will multiply slopes by 2. Default value is 0.5 which is the more realistic one. This settings affects the incline value sent to your trainer as well as the one used to calculate virtual speed.</td>
-</tr>
-<tr>
-<td>DebugWindow</td>
-<td>True / False</td>
-<td>Activates the debug view showing internal data in 3 panels, Activity panel, general panel and Simulation data / trainer data panel.</td>
-</tr>
-<tr>
-<td>InitialGPSPointLat InitialGPSPointLong</td>
-<td></td>
-<td>Initial GPS coordinates corresponding to the 0,0 coordinates in Los Santos map. The defaultInitial GPS coordinates corresponding to the 0,0 coordinates in Los Santos map. The default value maps to a small island in the pacific but you can change it to wherever in the world you want your FIT files to be located at.</td>
-</tr>
-<tr>
-<td>FECDeviceId PWRDeviceId HRDeviceId CADDeviceId ControlsDeviceId</td>
-<td></td>
-<td>Sets the mod to listen to a specific ANT device id for every of the ANT+ supported profiles so in case you have more than one device you can select the one you will be using. The special value 0 means it will pair the first device ot finds which is usually fine if you only have one. The special value 65535 is used when you want to deactivate the reception of a particular device, which can help with mod performance when you don't own that kind of sensor. FEC is an ANT+ smart trainer. PWR is an ANT+ power sensor. HR is an ANT+ heart rate strap. CAD is an ANT+ cadence sensor. Controls is an ANT+ remote control (experimental).</td>
-</tr>
-<tr>
-<td>Imperial</td>
-<td>True / False</td>
-<td>Toggles the unit system used in the bike display to show distance, speed, etc.</td>
-</tr>
-<tr>
-<td>UserWeightKg</td>
-<td></td>
-<td>User weight for the simulation. In Kilograms. This value changes if you change the weight in the mod menu.</td>
-</tr>
-<tr>
-<td>RoadFeel</td>
-<td>True / False</td>
-<td>Toggles the road feel simulation for Tacx Neo line of trainers and indoor bikes.</td>
-</tr>
-<tr>
-<td>WayPointDefaultColor</td>
-<td>FFADFF2F</td>
-<td>Configures the color of the waypoints shown while following one of the predefined routes. If there is a specific configuration in the course file, it has precedence over this one Colors are specified in AARRGGBB format.</td>
-</tr>
-<tr>
-<td>WayPointDefaultRadius</td>
-<td>0-40</td>
-<td>Configures the radius of the waypoints shown while following one of the predefined routes. If radius is zero the waypoints are not shown. If there is a specific configuration in the course file, it has precedence over this one.</td>
-</tr>
-<tr>
-<td>AlwaysUseVirtualSpeed</td>
-<td>True / False</td>
-<td>Allows you to always use the virtual speed calculations regardles if you have a smart trainer broadcasting its own speed. If you only have a power meter this setting does not apply, speed will be always virtual.</td>
-</tr>
-</table>
+|Key|Value|Description|
+|:---|:---|:---|
+|SelectedBike|SCORCHER, TRIBIKE, TRIBIKE2, TRIBIKE3, FIXTER, CRUISER, BMX|Bike used by the avatar during the ride. The game does not feature any other bike models.|
+|SlopeScale|0.0-2.0|Scales the inclines in the game, ranges from 0.0 to 2.0. The first one will remove any slope change and the latter will multiply slopes by 2. Default value is 0.5 which is the more realistic one. This settings affects the incline value sent to your trainer as well as the one used to calculate virtual speed.|
+|DebugWindow|True / False|Activates the debug view showing internal data in 3 panels, Activity panel, general panel and Simulation data / trainer data panel.|
+|InitialGPSPointLat InitialGPSPointLong||Initial GPS coordinates corresponding to the 0,0 coordinates in Los Santos map. The defaultInitial GPS coordinates corresponding to the 0,0 coordinates in Los Santos map. The default value maps to a small island in the pacific but you can change it to wherever in the world you want your FIT files to be located at.|
+|FECDeviceId PWRDeviceId HRDeviceId CADDeviceId ControlsDeviceId||Sets the mod to listen to a specific ANT device id for every of the ANT+ supported profiles so in case you have more than one device you can select the one you will be using. The special value 0 means it will pair the first device ot finds which is usually fine if you only have one. The special value 65535 is used when you want to deactivate the reception of a particular device, which can help with mod performance when you don't own that kind of sensor. FEC is an ANT+ smart trainer. PWR is an ANT+ power sensor. HR is an ANT+ heart rate strap. CAD is an ANT+ cadence sensor. Controls is an ANT+ remote control (experimental).|
+|Imperial|True / False|Toggles the unit system used in the bike display to show distance, speed, etc.|
+|UserWeightKg||User weight for the simulation. In Kilograms. This value changes if you change the weight in the mod menu.|
+|RoadFeel|True / False|Toggles the road feel simulation for Tacx Neo line of trainers and indoor bikes.|
+|WayPointDefaultColor|FFADFF2F|Configures the color of the waypoints shown while following one of the predefined routes. If there is a specific configuration in the course file, it has precedence over this one Colors are specified in AARRGGBB format.|
+|WayPointDefaultRadius|0-40|Configures the radius of the waypoints shown while following one of the predefined routes. If radius is zero the waypoints are not shown. If there is a specific configuration in the course file, it has precedence over this one.|
+|AlwaysUseVirtualSpeed|True / False|Allows you to always use the virtual speed calculations regardles if you have a smart trainer broadcasting its own speed. If you only have a power meter this setting does not apply, speed will be always virtual.|
 
 ### 3.3 Courses
 
