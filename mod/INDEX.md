@@ -14,11 +14,11 @@ This document is a collection of information found on [Grand Theft Auto Bike](ht
 | :---------- | :------------ |
 | 0.3.0.2     | June 22, 2020 |
 
-**Important Notice**
+**Important Notice / Warning **
 
-> Important: GTBikeV mod is only supported in GTA V `Story Mode`. If you play the mod in GTA V `Online` then you will be immediatly blocked from accessing the game.
+GTBikeV mod is only supported in GTA V `Story Mode`. If you play the mod in GTA V `Online` then you will be immediatly blocked from accessing the game.
 
-> Warning: this mod requires actual `PHYSICAL EXCERSISE` to be meaningful.
+This mod requires actual `PHYSICAL EXCERSISE` to be meaningful.
 
 ---
 
@@ -48,7 +48,6 @@ This document is a collection of information found on [Grand Theft Auto Bike](ht
 - [6. Credits](#6-credits)
 - [7. Contributors](#7-contributors)
 
----
 
 ## 1. Installation
 
