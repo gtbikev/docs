@@ -14,7 +14,7 @@ This document is a collection of information found on [Grand Theft Auto Bike](ht
 | :---------- | :------------ |
 | 0.3.0.2     | June 22, 2020 |
 
-**Important Notice / Warning **
+**Important Notice / Warning**
 
 GTBikeV mod is only supported in GTA V `Story Mode`. If you play the mod in GTA V `Online` then you will be immediatly blocked from accessing the game.
 
