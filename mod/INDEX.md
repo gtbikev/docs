@@ -34,10 +34,13 @@ This mod requires actual `PHYSICAL EXCERSISE` to be meaningful.
 - [3. User guide](#3-user-guide)
   - [3.1 Start ride](#31-start-ride)
   - [3.2 End ride](#32-end-ride)
-  - [3.2 Configuration](#32-configuration)
-  - [3.3 Courses](#33-courses)
-    - [3.3.1 About courses](#331-about-courses)
-    - [3.3.2 Install courses](#332-install-courses)
+  - [3.3 Configuration](#33-configuration)
+  - [3.4 Courses](#34-courses)
+    - [3.4.1 About courses](#341-about-courses)
+    - [3.4.2 Install courses](#342-install-courses)
+  - [3.5 Screenshots](#35-screenshots)
+    - [3.5.1 Automatic Screenshot Capture](#351-automatic-screenshot-capture)
+    - [3.5.2 Additional Screenshot Tools](#352-additional-screenshot-tools)
 - [4. Shortcuts](#4-shortcuts)
   - [4.1 Function keys](#41-function-keys)
   - [4.2 Keyboard keys](#42-keyboard-keys)
@@ -134,9 +137,9 @@ Perform the following steps to end a ride:
 2. Open mod menu using `F5` key
 3. Select option `End and save current activity`
 
-This will save the ride data to a fit file to user data directory located at `My Documents\Rockstar Games\GTA V`
+This will save the ride data to a fit file to user data directory located at `My Documents\Rockstar Games\GTA V`.
 
-### 3.2 Configuration
+### 3.3 Configuration
 
 The following options can be set in the `GTBikeVConfig.ini` in the user data directory located at `My Documents\Rockstar Games\GTA V\ModSettings`:
 
@@ -154,15 +157,29 @@ The following options can be set in the `GTBikeVConfig.ini` in the user data dir
 |WayPointDefaultRadius|0-40|Configures the radius of the waypoints shown while following one of the predefined routes. If radius is zero the waypoints are not shown. If there is a specific configuration in the course file, it has precedence over this one.|
 |AlwaysUseVirtualSpeed|True / False|Allows you to always use the virtual speed calculations regardles if you have a smart trainer broadcasting its own speed. If you only have a power meter this setting does not apply, speed will be always virtual.|
 
-### 3.3 Courses
+### 3.4 Courses
 
-#### 3.3.1 About courses
+#### 3.4.1 About courses
 
 `GT Bike V` mod features a course reader which auto drives you around Los Santos following different routes of various difficulty levels. Course files (.json) are storing the starting point, start banner, waypoints and end banner with X, Y and Z coordinates.
 
-#### 3.3.2 Install courses
+#### 3.4.2 Install courses
 
 Courses are stored in the folder `ModSettings` in the user data directory located at `My Documents\Rockstar Games\GTA V`. Courses are stored in a [repository](https://github.com/gtbikev/courses) and a preview is available on a [route database](https://www.gtbikevroutes.fun). Community members are also sharing often routes on [Grand Theft Auto Bike](https://www.facebook.com/groups/1089053124812221) facebook group. Install courses by copy the course file (.json) to `My Documents\Rockstar Games\GTA V\ModSettings`.
+
+### 3.5 Screenshots
+
+#### 3.5.1 Automatic Screenshot Capture
+
+`GT Bike V` mod captures automatically some screenshots during the ride. The screenshots are saved to user data directory located at `My Documents\Rockstar Games\GTA V`.
+
+#### 3.5.2 Additional Screenshot Tools
+
+The following screenshot tools allow you to take screenshots during the ride:
+
+* [Steam](https://store.steampowered.com/) - Screenshot: `F12`. Screenshots are visible in menu `View` > `Screenshots`
+* Xbox Game Bar - Open: `Windows+G`, Screenshot: `Windows+Alt+Print Screen`, Video Recording: `Windows+Alt+R`, Video Recording (last 30 seconds): `Windows+Alt+G`. Screenshots and video are saved to user data directory located at `Videos`.
+* [ShareX](https://getsharex.com/) - Screenshot: `Print Screen`, Screenshot (active window): `Alt+Print Screen`. Screenshots data directory can be configured under `Application Settings` > `Paths` > `Use custom screenshot folder`. 
 
 
 ## 4. Shortcuts
