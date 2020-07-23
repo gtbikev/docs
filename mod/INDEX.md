@@ -205,7 +205,7 @@ The following screenshot tools allow you to take screenshots during the ride:
 | 1        | Auto Steering On/Off                | Toggles autosteering without needing to get into the menu |
 | 4        | Smooth Steering Left                | Smooth steering with keys Numpad 4 and Numpad 6           |
 | 6        | Smooth Steering Right               | Smooth steering with keys Numpad 4 and Numpad 6           |
-| 7        | Activate Radio / Skip Radio Station | Activate radio resp. skip radio station when turned on    |
+| 7        | Activate Radio/Skip Station         | Activate radio resp. skip radio station when turned on    |
 
 
 ## 5. Troubleshooting
