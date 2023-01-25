@@ -1,5 +1,7 @@
 # Grand Theft Bike V - Docs
 
+> **There will be no more updates for docs. This repository is archived (read-only).**
+
 This repository contains documentation for [GT Bike V Mod](https://de.gta5-mods.com/scripts/gt-bike-v) and projects hosted on [github.com/gtbikev](https://github.com/gtbikev).
 
 ## Documentation
